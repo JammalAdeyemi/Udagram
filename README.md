@@ -11,3 +11,4 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 
 ## Endpoint URL
 Link: http://image-filter-dev7.us-east-1.elasticbeanstalk.com/
+Example: http://image-filter-dev7.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://blogs.biomedcentral.com/bmcseriesblog/wp-content/uploads/sites/9/2017/12/crowd-620x342.jpg
